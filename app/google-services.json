@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "893814533395",
+    "firebase_url": "https://nanaji-4d003.firebaseio.com",
+    "project_id": "nanaji-4d003",
+    "storage_bucket": "nanaji-4d003.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893814533395:android:49d8ed87bebcf2fa",
+        "android_client_info": {
+          "package_name": "astix.nanaji_storemapping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893814533395-j7mb8a5fh839gouo0aa8f9tk6k1tepeo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlve9A5QQdLtXTRVfuynjH8ACAFGnAlJw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
